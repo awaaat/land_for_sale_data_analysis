@@ -1,0 +1,102 @@
+2025-08-05 03:16:18 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 03:16:20 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 89-Success. Size fields extracted and filled
+2025-08-05 03:18:10 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 03:18:12 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 89-Success. Size fields extracted and filled
+2025-08-05 03:21:05 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 03:21:06 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:04:16 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:04:17 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:04:35 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:04:36 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:06:20 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:06:21 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:13:35 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:13:36 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:15:49 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:15:51 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:18:11 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:18:13 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:19:48 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:19:49 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:20:46 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:20:47 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:26:16 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:26:18 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:33:21 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:33:23 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:33:53 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:33:54 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:34:35 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:34:36 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:35:20 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:35:21 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:36:56 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:36:57 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:40:19 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:40:20 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:44:10 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:44:11 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:44:53 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:44:54 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:52:30 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:52:32 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 04:58:00 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 04:58:01 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:00:36 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:00:37 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:02:02 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:02:04 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:04:18 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:04:19 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:05:40 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:05:41 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:09:46 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:09:47 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:10:24 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:10:25 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:11:38 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:11:39 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:14:59 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:15:00 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:17:47 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:17:49 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:19:15 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:19:16 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:20:16 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:20:17 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:28:00 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:28:34 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:28:35 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:28:35 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 256-Successfully created 'acreage' column with converted values
+2025-08-05 05:28:35 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 281-Cleaning Success !! price_view_col dropped, price column cleaned
+2025-08-05 05:28:35 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 302-Successfully processed DataFrame through all steps
+2025-08-05 05:54:42 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 05:54:43 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 05:54:43 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 256-Successfully created 'acreage' column with converted values
+2025-08-05 05:54:43 - data_cleaner_and_processor - ERROR - cleaner_and_processor.py : 289-Error!! Failed to clean price columns
+2025-08-05 05:54:43 - data_cleaner_and_processor - ERROR - cleaner_and_processor.py : 310-Error processing DataFrame: float division by zero
+2025-08-05 06:00:13 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 06:00:14 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 06:00:14 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 256-Successfully created 'acreage' column with converted values
+2025-08-05 06:00:14 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 288-Cleaning Success !! price_view_col dropped, price column cleaned
+2025-08-05 06:00:14 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 309-Successfully processed DataFrame through all steps
+2025-08-05 06:08:38 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 06:08:39 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 06:08:39 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 256-Successfully created 'acreage' column with converted values
+2025-08-05 06:08:40 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 288-Cleaning Success !! price_view_col dropped, price column cleaned
+2025-08-05 06:08:40 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 309-Successfully processed DataFrame through all steps
+2025-08-05 06:12:09 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 06:12:10 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 06:12:10 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 256-Successfully created 'acreage' column with converted values
+2025-08-05 06:12:10 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 288-Cleaning Success !! price_view_col dropped, price column cleaned
+2025-08-05 06:12:10 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 309-Successfully processed DataFrame through all steps
+2025-08-05 06:21:04 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 06:21:05 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 06:21:06 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 256-Successfully created 'acreage' column with converted values
+2025-08-05 06:21:06 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 288-Cleaning Success !! price_view_col dropped, price column cleaned
+2025-08-05 06:21:06 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 309-Successfully processed DataFrame through all steps
+2025-08-05 20:11:52 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-05 20:11:54 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 103-Success. Size fields extracted and filled
+2025-08-05 20:11:54 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 256-Successfully created 'acreage' column with converted values
+2025-08-05 20:11:54 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 288-Cleaning Success !! price_view_col dropped, price column cleaned
+2025-08-05 20:11:54 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 309-Successfully processed DataFrame through all steps
