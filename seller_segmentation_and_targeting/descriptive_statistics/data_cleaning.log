@@ -1,0 +1,54 @@
+2025-08-14 06:51:19 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-14 06:51:21 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 87-Success. Size fields extracted and filled
+2025-08-14 06:51:21 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 295-Successfully preprocessed 'size' column for enhanced fraction parsing
+2025-08-14 06:51:21 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 244-Successfully created 'acreage' column with converted values
+2025-08-14 06:51:21 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 267-Cleaning Success !! price_view_col dropped, price column cleaned
+2025-08-14 06:51:21 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 311-Successfully processed DataFrame through all steps
+2025-08-14 06:51:23 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 431-Successfully extracted county information
+2025-08-14 06:51:23 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 434-Successfully extracted and cleaned time on jiji
+2025-08-14 06:51:23 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 453-Successfully processed DataFrame in ExtractVariables
+2025-08-14 06:52:55 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-14 06:52:56 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 87-Success. Size fields extracted and filled
+2025-08-14 06:52:56 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 295-Successfully preprocessed 'size' column for enhanced fraction parsing
+2025-08-14 06:52:57 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 244-Successfully created 'acreage' column with converted values
+2025-08-14 06:52:57 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 267-Cleaning Success !! price_view_col dropped, price column cleaned
+2025-08-14 06:52:57 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 311-Successfully processed DataFrame through all steps
+2025-08-14 06:52:59 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 431-Successfully extracted county information
+2025-08-14 06:52:59 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 434-Successfully extracted and cleaned time on jiji
+2025-08-14 06:52:59 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 453-Successfully processed DataFrame in ExtractVariables
+2025-08-14 06:53:21 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-14 06:53:22 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 87-Success. Size fields extracted and filled
+2025-08-14 06:53:22 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 295-Successfully preprocessed 'size' column for enhanced fraction parsing
+2025-08-14 06:53:22 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 244-Successfully created 'acreage' column with converted values
+2025-08-14 06:53:23 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 267-Cleaning Success !! price_view_col dropped, price column cleaned
+2025-08-14 06:53:23 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 311-Successfully processed DataFrame through all steps
+2025-08-14 06:53:24 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 431-Successfully extracted county information
+2025-08-14 06:53:24 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 434-Successfully extracted and cleaned time on jiji
+2025-08-14 06:53:24 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 453-Successfully processed DataFrame in ExtractVariables
+2025-08-14 07:00:46 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-14 07:00:47 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 87-Success. Size fields extracted and filled
+2025-08-14 07:00:47 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 295-Successfully preprocessed 'size' column for enhanced fraction parsing
+2025-08-14 07:00:47 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 244-Successfully created 'acreage' column with converted values
+2025-08-14 07:00:48 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 267-Cleaning Success !! price_view_col dropped, price column cleaned
+2025-08-14 07:00:48 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 311-Successfully processed DataFrame through all steps
+2025-08-14 07:00:49 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 431-Successfully extracted county information
+2025-08-14 07:00:50 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 434-Successfully extracted and cleaned time on jiji
+2025-08-14 07:00:50 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 453-Successfully processed DataFrame in ExtractVariables
+2025-08-14 07:05:44 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-14 07:05:46 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 87-Success. Size fields extracted and filled
+2025-08-14 07:05:46 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 295-Successfully preprocessed 'size' column for enhanced fraction parsing
+2025-08-14 07:05:46 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 244-Successfully created 'acreage' column with converted values
+2025-08-14 07:05:46 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 267-Cleaning Success !! price_view_col dropped, price column cleaned
+2025-08-14 07:05:46 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 311-Successfully processed DataFrame through all steps
+2025-08-14 07:05:48 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 431-Successfully extracted county information
+2025-08-14 07:05:48 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 434-Successfully extracted and cleaned time on jiji
+2025-08-14 07:05:48 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 453-Successfully processed DataFrame in ExtractVariables
+2025-08-14 07:09:30 - data_ingestion - INFO - data_injestion.py:71 - Success! File loaded into a pandas dataframe
+2025-08-14 07:09:32 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 87-Success. Size fields extracted and filled
+2025-08-14 07:09:32 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 295-Successfully preprocessed 'size' column for enhanced fraction parsing
+2025-08-14 07:09:32 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 244-Successfully created 'acreage' column with converted values
+2025-08-14 07:09:32 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 267-Cleaning Success !! price_view_col dropped, price column cleaned
+2025-08-14 07:09:32 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 311-Successfully processed DataFrame through all steps
+2025-08-14 07:09:34 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 431-Successfully extracted county information
+2025-08-14 07:09:34 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 434-Successfully extracted and cleaned time on jiji
+2025-08-14 07:09:34 - data_cleaner_and_processor - INFO - cleaner_and_processor.py : 453-Successfully processed DataFrame in ExtractVariables
